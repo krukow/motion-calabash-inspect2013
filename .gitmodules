@@ -1,0 +1,3 @@
+[submodule "RubyMotionSamples"]
+	path = RubyMotionSamples
+	url = git@github.com:HipByte/RubyMotionSamples.git
