@@ -1,0 +1,16 @@
+* Install and Setup for Beers app
+  - https://github.com/krukow/motion-calabash-inspect2013
+
+* Run test on simulator
+
+* Walk-through code
+
+* Extend code and show console
+  - Test the List view
+  - Share code e.g. (Beer::All)
+
+* Run test on device
+
+* Run test on device cloud
+
+* Q & A
