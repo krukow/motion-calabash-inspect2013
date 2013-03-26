@@ -11,7 +11,12 @@ To try
     gem install motion-calabash
 
 
-Edit `Rakefile` and add the line `require 'motion-calabash'` below `require 'motion/project'`.
+Edit `Rakefile` and add the line `require 'motion-calabash'` below `require 'motion/project'`:
+
+    $:.unshift("/Library/RubyMotion/lib")
+    require 'motion/project'
+    require 'motion-calabash'
+    #...
 
 Build
 
