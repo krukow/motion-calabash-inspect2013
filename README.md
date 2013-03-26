@@ -15,7 +15,7 @@ Edit `Rakefile` and add the line `require 'motion-calabash'` below `require 'mot
 
 Build
 
-    rake Build
+    rake build
 
 Run test
 
