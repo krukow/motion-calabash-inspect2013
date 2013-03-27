@@ -3,11 +3,21 @@
 
 * Run test on simulator
 
-* Walk-through code
-
 * Extend code and show console
   - Test the List view
   - Share code e.g. (Beer::All)
+  - Example_
+     Scenario: List overview
+     Given I'm on the map
+     When I tap List on the tab bar
+     Then I should see a list of all Beer locations
+  - Integrated console - how to touch (>) button
+  - Record/Playback/Gestures
+
+
+
+* Walk-through code Map (example)
+
 
 * Run test on device
 
